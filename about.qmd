@@ -1,0 +1,8 @@
+---
+title: "About"
+about:
+  template: jolla
+  image: assets/images/Drosera capensis_Q.jpg
+---
+
+## The People
