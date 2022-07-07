@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Plant Ecology UCT",
     "section": "",
-    "text": "{width=70%, {fig-align=“right”}}"
+    "text": "{width=40%, fig.align = ‘center’}"
   },
   {
     "objectID": "about.html",
@@ -158,7 +158,7 @@
     "href": "about.html#lab-members",
     "title": "Plant Ecology UCT",
     "section": "Lab members",
-    "text": "Lab members\n\n\nSimcelile Chenge\nPhD candidate exploring the relationships between culm (~leaf) and canopy reflectance spectra and hydrological niche preferences in Restionaceae. Co-supervised by Adam West.\n\n\nKagiso Nhlapo\nMSc candidate mapping hydrological refugia in the Cape Floristic Region. Co-supervised by Tony Verboom.\n\n\n\nMichelle Louw\nTechnician (EMSAfrica project)\n\n\n\nJasper Slingsby\nPrincipal Investigator\nFollowing my PhD exploring the interface between ecology and evolution in the Cape Floristic Region, I worked at the Fynbos Node of the South African Environmental Observation Network for almost a decade, focusing on global change and long term ecological research in African ecosystems. My current research blends the two, following the ethos that understanding the origins of diversity is essential if we are to understand how ecosystems function, how they are being altered by global change, and how best to manage them for desirable outcomes."
+    "text": "Lab members\n\n\nSimcelile Chenge\nPhD candidate exploring the relationships between culm (~leaf) and canopy reflectance spectra and hydrological niche preferences in Restionaceae. Co-supervised by Adam West.\n\n\n\nKagiso Nhlapo\nMSc candidate mapping hydrological refugia in the Cape Floristic Region. Co-supervised by Tony Verboom.\n\n\n\n\nMichelle Louw\nTechnician (EMSAfrica project)\n\n\n\n\nAnabelle Cardoso\nPostdoc (University at Buffalo and University of Cape Town)\nAnabelle is the Science Team Manager for the NASA BioSCape Campaign\n\n\n\n\nJasper Slingsby\nPrincipal Investigator\nFollowing my PhD exploring the interface between ecology and evolution in the Cape Floristic Region, I worked at the Fynbos Node of the South African Environmental Observation Network for almost a decade, focusing on global change and long term ecological research in African ecosystems. My current research blends the two, following the ethos that understanding the origins of diversity is essential if we are to understand how ecosystems function, how they are being altered by global change, and how best to manage them for desirable outcomes."
   },
   {
     "objectID": "teaching/index.html#mission",

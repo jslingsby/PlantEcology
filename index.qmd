@@ -1,5 +1,5 @@
 ---
 title: ""
 ---
-![](assets/images/Adenandra_villosa.jpg){fig-align="right"}
 
+<center>![](assets/images/Adenandra_villosa.jpg){width=70%}</center>

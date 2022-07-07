@@ -1,5 +1,7 @@
 # Preface {.unnumbered}
 
+See https://github.com/quarto-dev/quarto-cli/issues/638 for embedding a book?
+
 Mission:
 
 - Mission statement
