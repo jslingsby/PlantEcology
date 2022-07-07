@@ -1,19 +1,5 @@
 ---
-title: "Welcome!"
+title: ""
 ---
+![](assets/images/Adenandra_villosa.jpg){fig-align="right"}
 
-::: {.column-margin}
-![](assets/images/Hypodiscus aristatus.jpg)
-:::
-
-- About (and contact?)
-- News
-- Projects
-- Publications
-- More
-  - Lab
-  - Teaching
-  - Contact
-  
-  Consider multiple listings: https://quarto.org/docs/websites/website-listings.html#multiple-listings
-  - especially handy for "Current" vs "Past" etc

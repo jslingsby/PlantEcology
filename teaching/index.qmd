@@ -1,0 +1,33 @@
+---
+title: ""
+---
+
+::: {.column-margin}
+![](Hypodiscus aristatus.jpg)
+:::
+
+## Mission
+
+We aim to produce graduates who are ecologically and data literate, engaged, and have the wit to never stop questioning the "facts" presented in whatever walk of life they choose.
+
+We hope to cultivate a sense of environmental consciousness and biophilia in our students and others, ultimately sharing "the pleasure of finding things out" _sensu_ Richard Feynman.
+
+## Materials
+
+This section points to our teaching resources, but they're mostly hosted elsewhere. The plan is to embed them in this webpage in future. Most are provided under a [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license, so feel free to reuse unless otherwise indicated. If you're not sure, get in touch.
+
+#### Honours (4th year) modules (BIO4000W/BIO4001W)
+
+- [Introduction to data management and reporoducible research (bookdown site)](https://www.ecologi.st/data-management/)
+- [Introduction to GIS and handling spatial data with R (bookdown site)](https://www.ecologi.st/spatial-r/)
+
+
+#### Third-year courses
+
+- [Ecology & Evolution (BIO3018F): Measuring Biodiversity (Git repo incl. pdf lectures)](https://github.com/jslingsby/BIO3018F)
+- [Quantitative Biology (BIO3019S): Ecological Forecasting (bookdown site)](https://www.ecologi.st/BIO3019S_Ecoforecasting/)
+
+
+#### Other materials
+
+- [Data skills (website)](https://fynbos.saeon.ac.za/docs/)

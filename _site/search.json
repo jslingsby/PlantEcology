@@ -2,16 +2,16 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome!",
+    "title": "Plant Ecology UCT",
     "section": "",
-    "text": "About (and contact?)\nNews\nProjects\nPublications\nMore\n\nLab\nTeaching\nContact\n\nConsider multiple listings: https://quarto.org/docs/websites/website-listings.html#multiple-listings\n\nespecially handy for “Current” vs “Past” etc"
+    "text": "{width=70%, {fig-align=“right”}}"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Plant Ecology UCT",
     "section": "",
-    "text": "1 + 1\n\n[1] 2"
+    "text": "Our mission is to improve our fundamental understanding of African ecosystems and translate that knowledge into tools to assist the management and conservation of their biodiversity and contributions to people."
   },
   {
     "objectID": "news/index.html",
@@ -51,7 +51,7 @@
   {
     "objectID": "about.html#the-people",
     "href": "about.html#the-people",
-    "title": "UCT Plant Ecology Lab",
+    "title": "Plant Ecology UCT",
     "section": "The People",
     "text": "The People"
   },
@@ -60,7 +60,7 @@
     "href": "projects/index.html",
     "title": "Projects",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\nThis is a post with executable code.\n\n\n\nHarlow Malloc\n\n\nApr 29, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\nThis is the first post in a Quarto blog. Welcome!\n\n\n\nTristan O’Malley\n\n\nApr 26, 2022\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\n\n\nbiogeography\n\n\nforecasting\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nremote sensing\n\n\nforecasting\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nremote sensing\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/about.html",
@@ -89,5 +89,152 @@
     "title": "About",
     "section": "The Lab",
     "text": "The Lab"
+  },
+  {
+    "objectID": "lab/index.html",
+    "href": "lab/index.html",
+    "title": "Plant Ecology UCT",
+    "section": "",
+    "text": "Mission:\n\nMission statement\n\nResearch\nTeaching\nMentorship\n\nCore values\nExpectations:\n\nlab expectations\nlab personnel policy\nlab structure\nequipment\nfieldwork\nfunding\nbuying things\ngeneral advice\n\n\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books."
+  },
+  {
+    "objectID": "lab/references.html",
+    "href": "lab/references.html",
+    "title": "UCT Plant Ecology Lab",
+    "section": "",
+    "text": "References"
+  },
+  {
+    "objectID": "lab/summary.html",
+    "href": "lab/summary.html",
+    "title": "UCT Plant Ecology Lab",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "lab/intro.html",
+    "href": "lab/intro.html",
+    "title": "UCT Plant Ecology Lab",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee @knuth84 for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "teaching/index.html",
+    "href": "teaching/index.html",
+    "title": "Teaching materials",
+    "section": "",
+    "text": "This section points to teaching resources mostly hosted elsewhere. The plan is to embed them in this webpage in future.\n\nHonours (4th year) modules (BIO4000W/BIO4001W)\n\nIntroduction to data management and reporoducible research (bookdown site)\nIntroduction to GIS and handling spatial data with R (bookdown site)\n\n\n\nThird-year courses\n\nEcology & Evolution (BIO3018F): Measuring Biodiversity (Git repo with lectures as PDFs)\nQuantitative Biology (BIO3019S): Ecological Forecasting (bookdown site)\n\n\n\nOther materials\n\nData skills (website)"
+  },
+  {
+    "objectID": "teaching/about.html",
+    "href": "teaching/about.html",
+    "title": "About",
+    "section": "",
+    "text": "1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "teaching/index.html#other-materials",
+    "href": "teaching/index.html#other-materials",
+    "title": "Teaching materials",
+    "section": "Other materials",
+    "text": "Other materials\n\nData skills"
+  },
+  {
+    "objectID": "teaching/index.html#teaching-mission",
+    "href": "teaching/index.html#teaching-mission",
+    "title": "Plant Ecology UCT",
+    "section": "Teaching mission",
+    "text": "Teaching mission\nWe aim to produce graduates who are ecologically and data literate, engaged, and have the wit to never stop questioning the “facts” presented in whatever walk of life they choose.\nWe hope to cultivate a sense of environmental consciousness and biophilia in our students and others, ultimately sharing “the pleasure of finding things out” sensu Richard Feynman."
+  },
+  {
+    "objectID": "teaching/index.html#materials",
+    "href": "teaching/index.html#materials",
+    "title": "Plant Ecology UCT",
+    "section": "Materials",
+    "text": "Materials\nThis section points to our teaching resources, but they’re mostly hosted elsewhere. The plan is to embed them in this webpage in future. Most are provided under a CC BY 4.0 license, so feel free to reuse unless otherwise indicated. If you’re not sure, get in touch.\n\nHonours (4th year) modules (BIO4000W/BIO4001W)\n\nIntroduction to data management and reporoducible research (bookdown site)\nIntroduction to GIS and handling spatial data with R (bookdown site)\n\n\n\nThird-year courses\n\nEcology & Evolution (BIO3018F): Measuring Biodiversity (Git repo incl. pdf lectures)\nQuantitative Biology (BIO3019S): Ecological Forecasting (bookdown site)\n\n\n\nOther materials\n\nData skills (website)"
+  },
+  {
+    "objectID": "about.html#lab-members",
+    "href": "about.html#lab-members",
+    "title": "Plant Ecology UCT",
+    "section": "Lab members",
+    "text": "Lab members\n\n\nSimcelile Chenge\nPhD candidate exploring the relationships between culm (~leaf) and canopy reflectance spectra and hydrological niche preferences in Restionaceae. Co-supervised by Adam West.\n\n\nKagiso Nhlapo\nMSc candidate mapping hydrological refugia in the Cape Floristic Region. Co-supervised by Tony Verboom.\n\n\n\nMichelle Louw\nTechnician (EMSAfrica project)\n\n\n\nJasper Slingsby\nPrincipal Investigator\nFollowing my PhD exploring the interface between ecology and evolution in the Cape Floristic Region, I worked at the Fynbos Node of the South African Environmental Observation Network for almost a decade, focusing on global change and long term ecological research in African ecosystems. My current research blends the two, following the ethos that understanding the origins of diversity is essential if we are to understand how ecosystems function, how they are being altered by global change, and how best to manage them for desirable outcomes."
+  },
+  {
+    "objectID": "teaching/index.html#mission",
+    "href": "teaching/index.html#mission",
+    "title": "Plant Ecology UCT",
+    "section": "Mission",
+    "text": "Mission\nWe aim to produce graduates who are ecologically and data literate, engaged, and have the wit to never stop questioning the “facts” presented in whatever walk of life they choose.\nWe hope to cultivate a sense of environmental consciousness and biophilia in our students and others, ultimately sharing “the pleasure of finding things out” sensu Richard Feynman."
+  },
+  {
+    "objectID": "projects/posts/bioscape/index.html",
+    "href": "projects/posts/bioscape/index.html",
+    "title": "NASA BioSCape Campaign",
+    "section": "",
+    "text": "For more information, see the campaign website."
+  },
+  {
+    "objectID": "projects/posts/emsafrica/index.html",
+    "href": "projects/posts/emsafrica/index.html",
+    "title": "EMSAfrica",
+    "section": "",
+    "text": "For more information see the project website."
+  },
+  {
+    "objectID": "projects/posts/emma/index.html",
+    "href": "projects/posts/emma/index.html",
+    "title": "EMMA",
+    "section": "",
+    "text": "For more information, see the project website."
+  },
+  {
+    "objectID": "projects/posts/rretool/index.html",
+    "href": "projects/posts/rretool/index.html",
+    "title": "RReTool",
+    "section": "",
+    "text": "Recent advances in the availability of regularly updated, high resolution remotely-sensed data, combined with advances in computation have made it possible to monitor ecosystems at higher spatial and temporal resolution than previously possible. Much of the focus in research and the development of tools to make use of this new data has been in the forested ecosystems of the northern hemisphere and the tropics. More than 90% of South Africa’s terrestrial surface is covered by “open” non-forest ecosystems such as shrublands, woodlands and grasslands. Detecting abnormal change in these ecosystems is highly challenging, because the state of the vegetation varies dramatically due to natural disturbances, long-term trends or cyclical functions, such as those relating to fire, postfire recovery, and seasonality. Overcoming these challenges is critical, because open ecosystems dominate much of the globe, making up >40% of the global total ecosystem organic carbon and harbour a substantial proportion of the world’s biological diversity.\nWith the National Research Foundation funded RReTool project, we are developing tools to make full use of the potential of satellite data for monitoring the non-forests ecosystems that dominate South Africa, and to deepen our understanding of how they vary in space and time. Using this information we are improving our ability to manage and mitigate the impacts of threats such as invasive alien plants, land cover transformation and climatic change. All of this is being achieved using only freely available open source software, and publicly available data, and reproducible research principles. The information and tools generated will therefore be available at no expense to researchers and managers to use and modify as needed, allowing outputs to be regularly updated and/or improved. This will ensure that environmental resource management is informed by up-to-date accurate data."
+  },
+  {
+    "objectID": "projects/current/emsafrica/index.html",
+    "href": "projects/current/emsafrica/index.html",
+    "title": "EMSAfrica",
+    "section": "",
+    "text": "For more information see the project website."
+  },
+  {
+    "objectID": "projects/current/emma/index.html",
+    "href": "projects/current/emma/index.html",
+    "title": "EMMA",
+    "section": "",
+    "text": "For more information, see the project website."
+  },
+  {
+    "objectID": "projects/current/bioscape/index.html",
+    "href": "projects/current/bioscape/index.html",
+    "title": "NASA BioSCape Campaign",
+    "section": "",
+    "text": "For more information, see the campaign website."
+  },
+  {
+    "objectID": "projects/past/rretool/index.html",
+    "href": "projects/past/rretool/index.html",
+    "title": "RReTool",
+    "section": "",
+    "text": "Recent advances in the availability of regularly updated, high resolution remotely-sensed data, combined with advances in computation have made it possible to monitor ecosystems at higher spatial and temporal resolution than previously possible. Much of the focus in research and the development of tools to make use of this new data has been in the forested ecosystems of the northern hemisphere and the tropics. More than 90% of South Africa’s terrestrial surface is covered by “open” non-forest ecosystems such as shrublands, woodlands and grasslands. Detecting abnormal change in these ecosystems is highly challenging, because the state of the vegetation varies dramatically due to natural disturbances, long-term trends or cyclical functions, such as those relating to fire, postfire recovery, and seasonality. Overcoming these challenges is critical, because open ecosystems dominate much of the globe, making up >40% of the global total ecosystem organic carbon and harbour a substantial proportion of the world’s biological diversity.\nWith the National Research Foundation funded RReTool project, we are developing tools to make full use of the potential of satellite data for monitoring the non-forests ecosystems that dominate South Africa, and to deepen our understanding of how they vary in space and time. Using this information we are improving our ability to manage and mitigate the impacts of threats such as invasive alien plants, land cover transformation and climatic change. All of this is being achieved using only freely available open source software, and publicly available data, and reproducible research principles. The information and tools generated will therefore be available at no expense to researchers and managers to use and modify as needed, allowing outputs to be regularly updated and/or improved. This will ensure that environmental resource management is informed by up-to-date accurate data."
+  },
+  {
+    "objectID": "projects/index.html#meeting-notes",
+    "href": "projects/index.html#meeting-notes",
+    "title": "Projects",
+    "section": "Meeting Notes",
+    "text": "Meeting Notes\n\n\n    \n      \n      \n    \n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/index.html#past-projects",
+    "href": "projects/index.html#past-projects",
+    "title": "Projects",
+    "section": "Past projects",
+    "text": "Past projects\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nRReTool\n\n\n\nremote sensing\n\n\nforecasting\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]

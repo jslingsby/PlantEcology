@@ -1,7 +1,15 @@
 ---
 title: "Projects"
 listing:
-  contents: posts
+- id: past
+  contents: past
+  sort: "date desc"
+  type: grid
+  categories: true
+  sort-ui: true
+  filter-ui: true
+- id: current
+  contents: current
   sort: "date desc"
   type: grid
   categories: true
@@ -9,3 +17,13 @@ listing:
   filter-ui: true
 page-layout: full
 ---
+
+## Current projects
+
+:::{#current}
+:::
+
+## Past projects
+
+:::{#past}
+:::

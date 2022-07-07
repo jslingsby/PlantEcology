@@ -1,0 +1,12 @@
+---
+title: "NASA BioSCape Campaign"
+author: ""
+date: ""
+categories: [remote sensing]
+image: "bioscape.png"
+---
+
+The Biodiversity Survey of the Cape (BioSCape) is a NASA field campaign focused on the Greater Cape Floristic Region of South Africa. It is the first ever NASA campaign focused on remote sensing of biodiversity.
+
+For more information, see the [campaign website](https://www.bioscape.io/home).
+

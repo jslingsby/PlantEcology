@@ -1,0 +1,27 @@
+# Preface {.unnumbered}
+
+Mission:
+
+- Mission statement
+  - Research
+  - Teaching
+  - Mentorship
+  
+- Core values
+
+- Expectations:
+  - lab expectations
+  - lab personnel policy
+  - lab structure
+  - equipment
+  - fieldwork
+  - funding
+  - buying things
+  - general advice
+
+
+This is a Quarto book.
+
+To learn more about Quarto books visit <https://quarto.org/docs/books>.
+
+

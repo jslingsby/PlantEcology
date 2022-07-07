@@ -2,15 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.myblogexample.io/index.html</loc>
-    <lastmod>2022-07-04T08:44:16.197Z</lastmod>
+    <lastmod>2022-07-07T13:13:16.431Z</lastmod>
   </url>
   <url>
     <loc>https://www.myblogexample.io/about.html</loc>
-    <lastmod>2022-07-04T08:44:33.381Z</lastmod>
+    <lastmod>2022-07-07T12:36:48.533Z</lastmod>
   </url>
   <url>
     <loc>https://www.myblogexample.io/news/index.html</loc>
-    <lastmod>2022-07-04T08:44:41.085Z</lastmod>
+    <lastmod>2022-07-06T18:43:44.865Z</lastmod>
   </url>
   <url>
     <loc>https://www.myblogexample.io/news/about.html</loc>
@@ -26,7 +26,7 @@
   </url>
   <url>
     <loc>https://www.myblogexample.io/projects/index.html</loc>
-    <lastmod>2022-07-04T08:44:43.793Z</lastmod>
+    <lastmod>2022-07-07T13:13:27.675Z</lastmod>
   </url>
   <url>
     <loc>https://www.myblogexample.io/projects/about.html</loc>
@@ -39,5 +39,61 @@
   <url>
     <loc>https://www.myblogexample.io/projects/posts/post-with-code/index.html</loc>
     <lastmod>2022-04-29T20:15:57.969Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.myblogexample.io/lab/index.html</loc>
+    <lastmod>2022-07-07T13:13:23.751Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.myblogexample.io/lab/references.html</loc>
+    <lastmod>2022-07-05T11:00:39.008Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.myblogexample.io/lab/summary.html</loc>
+    <lastmod>2022-07-05T11:00:39.944Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.myblogexample.io/lab/intro.html</loc>
+    <lastmod>2022-07-05T11:00:40.892Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.myblogexample.io/teaching/index.html</loc>
+    <lastmod>2022-07-06T18:43:55.426Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.myblogexample.io/teaching/about.html</loc>
+    <lastmod>2022-07-05T12:17:25.672Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.myblogexample.io/projects/posts/bioscape/index.html</loc>
+    <lastmod>2022-07-06T11:41:39.570Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.myblogexample.io/projects/posts/emsafrica/index.html</loc>
+    <lastmod>2022-07-06T11:41:38.638Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.myblogexample.io/projects/posts/emma/index.html</loc>
+    <lastmod>2022-07-06T11:41:39.110Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.myblogexample.io/projects/posts/rretool/index.html</loc>
+    <lastmod>2022-07-06T12:05:11.570Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.myblogexample.io/projects/current/emsafrica/index.html</loc>
+    <lastmod>2022-07-06T15:31:15.225Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.myblogexample.io/projects/current/emma/index.html</loc>
+    <lastmod>2022-07-06T14:40:14.137Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.myblogexample.io/projects/current/bioscape/index.html</loc>
+    <lastmod>2022-07-06T14:40:14.461Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.myblogexample.io/projects/past/rretool/index.html</loc>
+    <lastmod>2022-07-06T15:19:53.213Z</lastmod>
   </url>
 </urlset>

@@ -9,8 +9,10 @@
   {
     "listing": "/projects/index.html",
     "items": [
-      "/projects/posts/post-with-code/index.html",
-      "/projects/posts/welcome/index.html"
+      "/projects/past/rretool/index.html",
+      "/projects/current/emsafrica/index.html",
+      "/projects/current/emma/index.html",
+      "/projects/current/bioscape/index.html"
     ]
   }
 ]

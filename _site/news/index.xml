@@ -5,7 +5,7 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>UCT Plant Ecology Lab</title>
+<title>Plant Ecology UCT</title>
 <link>https://www.myblogexample.io/news/index.html</link>
 <atom:link href="https://www.myblogexample.io/news/index.xml" rel="self" type="application/rss+xml"/>
 <description>Research lab in the Department of Biological Sciences at the University of Cape Town</description>

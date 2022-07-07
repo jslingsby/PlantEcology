@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "UCT Plant Ecology Lab"
+  title: "Plant Ecology UCT"
   favicon: assets/icon.png
   twitter-card: true
   opengraph: true
@@ -13,17 +13,20 @@ website:
   repo-url: https://github.com/jslingsby/PlantEcology
   repo-actions: [edit, issue]
   navbar:
-    background: secondary
-    foreground: light
+    background: light
+    foreground: secondary
     search: true
     right:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
       - href: news/index.qmd
         text: News
       - href: projects/index.qmd
         text: Projects
+      - href: teaching/index.qmd
+        text: Teaching
+      - href: lab/index.qmd
+        text: Lab
       - href: https://github.com/PlantEcologi
         icon: "github"
       - href: https://twitter.com/JasperSlingsby
