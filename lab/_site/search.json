@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Teaching materials",
+    "section": "",
+    "text": "Honours (4th year) modules (BIO4000W/BIO4001W)\nIntroduction to data management and reporoducible research\nIntroduction to GIS and handling spatial data with R\n\n\nThird-year courses\nEcology & Evolution (BIO3018F): Measuring Biodiversity - Git repo with lectures as PDFs\nQuantitative Biology (BIO3019S): Ecological Forecasing\n\n\nOther materials\nData skills"
+  },
+  {
+    "objectID": "index.html#mission",
+    "href": "index.html#mission",
+    "title": "teaching",
+    "section": "Mission",
+    "text": "Mission\nWe aim to produce graduates who are ecologically and data literate, engaged, and have the wit to never stop questioning the “facts” presented in whatever walk of life they choose.\nWe hope to cultivate a sense of environmental consciousness and biophilia in our students and others, ultimately sharing “the pleasure of finding things out” sensu Richard Feynman."
+  },
+  {
+    "objectID": "index.html#materials",
+    "href": "index.html#materials",
+    "title": "teaching",
+    "section": "Materials",
+    "text": "Materials\nThis section points to our teaching resources, but they’re mostly hosted elsewhere. The plan is to embed them in this webpage in future. Most are provided under a CC BY 4.0 license, so feel free to reuse unless otherwise indicated. If you’re not sure, get in touch.\n\nHonours (4th year) modules (BIO4000W/BIO4001W)\n\nIntroduction to data management and reporoducible research (bookdown site)\nIntroduction to GIS and handling spatial data with R (bookdown site)\n\n\n\nThird-year courses\n\nEcology & Evolution (BIO3018F): Measuring Biodiversity (Git repo incl. pdf lectures)\nQuantitative Biology (BIO3019S): Ecological Forecasting (bookdown site)\n\n\n\nOther materials\n\nData skills (website)"
+  }
+]

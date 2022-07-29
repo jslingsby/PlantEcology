@@ -18,7 +18,7 @@
     "href": "news/index.html",
     "title": "News",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\nThis is a post with executable code.\n\n\n\n\n\n\nApr 29, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\nThis is the first post in a Quarto blog. Welcome!\n\n\n\n\n\n\nApr 26, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nApr 29, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nApr 26, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "news/about.html",
@@ -95,7 +95,7 @@
     "href": "lab/index.html",
     "title": "Plant Ecology UCT",
     "section": "",
-    "text": "Mission:\n\nMission statement\n\nResearch\nTeaching\nMentorship\n\nCore values\nExpectations:\n\nlab expectations\nlab personnel policy\nlab structure\nequipment\nfieldwork\nfunding\nbuying things\ngeneral advice\n\n\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books."
+    "text": "See https://github.com/quarto-dev/quarto-cli/issues/638 for embedding a book?\nMission:\n\nMission statement\n\nResearch\nTeaching\nMentorship\n\nCore values\nExpectations:\n\nlab expectations\nlab personnel policy\nlab structure\nequipment\nfieldwork\nfunding\nbuying things\ngeneral advice\n\n\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books."
   },
   {
     "objectID": "lab/references.html",
@@ -236,5 +236,26 @@
     "title": "Projects",
     "section": "Past projects",
     "text": "Past projects\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nRReTool\n\n\n\nremote sensing\n\n\nforecasting\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "lab/index.html#map",
+    "href": "lab/index.html#map",
+    "title": "Plant Ecology UCT",
+    "section": "Map",
+    "text": "Map\n\n\n\nHere’s a Google Maps pin."
+  },
+  {
+    "objectID": "lab/index.html#lab-manual",
+    "href": "lab/index.html#lab-manual",
+    "title": "Plant Ecology UCT",
+    "section": "Lab Manual",
+    "text": "Lab Manual\nFor all things lab-related, from core values to how meetings work and how to buy things, please visit the lab manual."
+  },
+  {
+    "objectID": "lab/about.html",
+    "href": "lab/about.html",
+    "title": "About",
+    "section": "",
+    "text": "1 + 1\n\n[1] 2"
   }
 ]

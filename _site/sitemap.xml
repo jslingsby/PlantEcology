@@ -2,15 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.myblogexample.io/index.html</loc>
-    <lastmod>2022-07-07T20:05:27.683Z</lastmod>
+    <lastmod>2022-07-29T08:12:41.290Z</lastmod>
   </url>
   <url>
     <loc>https://www.myblogexample.io/about.html</loc>
-    <lastmod>2022-07-07T20:11:08.293Z</lastmod>
+    <lastmod>2022-07-29T08:12:54.542Z</lastmod>
   </url>
   <url>
     <loc>https://www.myblogexample.io/news/index.html</loc>
-    <lastmod>2022-07-06T18:43:44.865Z</lastmod>
+    <lastmod>2022-07-26T11:08:44.022Z</lastmod>
   </url>
   <url>
     <loc>https://www.myblogexample.io/news/about.html</loc>
@@ -26,7 +26,7 @@
   </url>
   <url>
     <loc>https://www.myblogexample.io/projects/index.html</loc>
-    <lastmod>2022-07-07T20:11:57.389Z</lastmod>
+    <lastmod>2022-07-26T11:08:51.702Z</lastmod>
   </url>
   <url>
     <loc>https://www.myblogexample.io/projects/about.html</loc>
@@ -42,7 +42,7 @@
   </url>
   <url>
     <loc>https://www.myblogexample.io/lab/index.html</loc>
-    <lastmod>2022-07-07T13:13:23.751Z</lastmod>
+    <lastmod>2022-07-29T08:12:51.534Z</lastmod>
   </url>
   <url>
     <loc>https://www.myblogexample.io/lab/references.html</loc>
@@ -58,7 +58,7 @@
   </url>
   <url>
     <loc>https://www.myblogexample.io/teaching/index.html</loc>
-    <lastmod>2022-07-06T18:43:55.426Z</lastmod>
+    <lastmod>2022-07-26T11:09:43.153Z</lastmod>
   </url>
   <url>
     <loc>https://www.myblogexample.io/teaching/about.html</loc>
@@ -95,5 +95,9 @@
   <url>
     <loc>https://www.myblogexample.io/projects/past/rretool/index.html</loc>
     <lastmod>2022-07-06T15:19:53.213Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.myblogexample.io/lab/about.html</loc>
+    <lastmod>2022-07-25T19:20:56.728Z</lastmod>
   </url>
 </urlset>
